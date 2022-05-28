@@ -1,0 +1,14 @@
+.App {
+  background-color: rgb(220, 248, 248);
+}
+.sideBar{
+  background-color: white;
+  width: 25%;
+  height: 620px;
+}
+.div{
+  width: 70%;
+  padding: 8px;
+  
+}
+
